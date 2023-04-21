@@ -2,7 +2,9 @@
 ## About
 
 ```
-This is a daily planner application that lets the user input events for their day into corresponding time slots and saves them to help the user keep track of their schedule.
+This is a daily planner application 
+that lets the user input events for their day into corresponding time slots
+and saves them to help the user keep track of their schedule.
 ```
 
 ### User Story
